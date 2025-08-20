@@ -33,10 +33,10 @@ This project showcases advanced Flutter skills through attractive UI, smooth ani
 
 ## 🖼️ Screenshots
 
-| Splash Screen | Onboarding Screen |
+| intro screen | start Screen |
 |---------------|-----------------|
 | ![Splash Screen](assets/screenshots/one.png) | ![Onboarding Screen](assets/screenshots/two.png) |
 
-| Home Screen | Product Details Screen |
+| Home Screen | Home Menu |
 |------------|----------------------|
 | ![Home Screen](assets/screenshots/three.png) | ![Product Details](assets/screenshots/four.png) |
